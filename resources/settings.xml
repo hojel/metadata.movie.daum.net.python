@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<category label="$LOCALIZE[128]">
+		<setting label="30000" type="number" id="max_poster" default="10"/>
+		<setting label="30001" type="number" id="max_fanart" default="10"/>
+	</category>
+</settings>
